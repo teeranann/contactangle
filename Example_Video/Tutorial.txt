@@ -1,0 +1,9 @@
+This is a guide to select the method to measure the contact angle.
+
+1. Normal drop on non reflective surface   => No Crop/Crop + Manual
+
+2. Normal drop on reflective surface       => No Crop/Crop + Reflection
+
+3. Drop on rotated stage                   => Trim 1st frame + No crop + Manual
+
+4. Drop with guiding device                => Crop + Needle
